@@ -5,22 +5,22 @@
   "scripts": {
     "start": "node_modules/.bin/gulp build"
   },
-  "description": "A basic blog post HTML template built with Bootstrap",
+  "description": "A basic blog post HTML Website built with Bootstrap",
   "keywords": [
     "css",
     "sass",
     "html",
     "responsive",
     "theme",
-    "template"
+    "Website"
   ],
-  "homepage": "https://startbootstrap.com/templates/blog-post",
+  "homepage": "https://startbootstrap.com/Websites/blog-post",
   "bugs": {
     "url": "https://github.com/StartBootstrap/startbootstrap-blog-post/issues",
     "email": "feedback@startbootstrap.com"
   },
   "license": "MIT",
-  "author": "Start Bootstrap",
+  "author": "Demo Website",
   "contributors": [
     "David Miller (http://davidmiller.io/)"
   ],
